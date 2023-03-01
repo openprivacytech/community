@@ -1,6 +1,6 @@
 # Google Season of Docs 2023
 
-### PROPOSAL TITLE - Update OpenPrivacyTech Contributor Guide, Documentations and Technical Contents.
+### Update OpenPrivacyTech Contributor Guide, Documentations and Technical Contents.
 
 _Your proposal title should be short and specific. “Update ORGNAME Contributor Guide” is a good proposal title. “Documentation Improvements” is too vague; “Update Sections 5,7,23,99 of Contributor Guide, Create FAQ, and Create Style Guide” is too long._
 
