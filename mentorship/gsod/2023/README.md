@@ -1,14 +1,15 @@
-# Google Season of Docs 2023
 
-### Update OpenPrivacyTech Contributor Guide, Documentations and Technical Contents.
+Welcome to the OpenPrivacyTech Google Season of Docs 2023
 
-_Your proposal title should be short and specific. “Update ORGNAME Contributor Guide” is a good proposal title. “Documentation Improvements” is too vague; “Update Sections 5,7,23,99 of Contributor Guide, Create FAQ, and Create Style Guide” is too long._
+## Project Idea: Create and Update OpenPrivacyTech Documentations and Technical Contents
 
+# About OpenPrivacyTech
 
-### About your organization
+OpenPrivacyTech is a 501(c)(3) nonprofit open-source organization dedicated to democratizing privacy technology and privacy-enhancing technologies (PETs). Our mission is to make privacy-enhancing technologies (PETs) accessible to everyone through education, research, and advocacy. Our goal is to advance the field of privacy tech by conducting research, identifying emerging trends and technologies, developing standards and infrastructure for the adoption of privacy-enhancing technologies (PETs). We work with researchers, data scientists, developers, policymakers, industry leaders, and organizations to advocate for strong data privacy and protection laws while promoting the adoption of privacy-enhancing technologies (PETs). 
 
-OpenPrivacyTech is a 501(c)(3) nonprofit initiative working on democratizing privacy tech. 
+At OpenPrivacyTech, we firmly believe in the critical importance of protecting individual privacy, and we are dedicated to promoting privacy tech adoption and joined the movement toward building and adopting for privacy-enhacing technologies. By collaborating with key stakeholders and promoting best practices in privacy tech, we are working to build a safer, more equitable digital future for all. 
 
+We are excited to participate in the Season of Docs 2023 program and hire technical writers to create and update our documentation and technical content, such as contributor and onboarding guides, tutorials, technical resources, blog posts, and over all organizations open source project documentations . We believe in open source, adopting open standards, and building an open community to raise awareness of emerging privacy-enhancing technologies. By participating in the Season of Docs, we hope to support our contributors and technical writers and help grow our nonprofit initiative.
 
 
 
