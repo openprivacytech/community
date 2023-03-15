@@ -1,9 +1,9 @@
 
-Welcome to the OpenPrivacyTech Google Season of Docs 2023
+> Welcome to the OpenPrivacyTech Google Season of Docs 2023
 
 ## Project Idea: Create and Update OpenPrivacyTech Documentations and Technical Contents
 
-# About OpenPrivacyTech
+## About OpenPrivacyTech
 
 OpenPrivacyTech is a 501(c)(3) nonprofit open-source organization dedicated to democratizing privacy technology and privacy-enhancing technologies (PETs). Our mission is to make privacy-enhancing technologies (PETs) accessible to everyone through education, research, and advocacy. Our goal is to advance the field of privacy tech by conducting research, identifying emerging trends and technologies, developing standards and infrastructure for the adoption of privacy-enhancing technologies (PETs). We work with researchers, data scientists, developers, policymakers, industry leaders, and organizations to advocate for strong data privacy and protection laws while promoting the adoption of privacy-enhancing technologies (PETs). 
 
