@@ -14,40 +14,44 @@ We are excited to participate in the Season of Docs 2023 program and hire techni
 
 
 ### About Project
+---
+
+####  Project Problem
 
 
-#### Your project’s problem
+Our Documentation project is an Apache 2.0 licensed initiative that aims to improve our documentation, onboarding process, and technical content such as technical blogs and tutorials. Our goal is to enable privacy researchers, data scientists, developers, policymakers, industry leaders, and organizations to use and contribute to our project and advance the field of privacy tech and privacy-enhancing technologies. To achieve this objective, we plan to join the Season of Docs program and publish state-of-the-art reports on privacy tech and privacy-enhancing technologies (PETs), as well as open research/advocacy programs. We are also looking for grants to expand our initiative and make it more democratic.
 
-_Tell us about the problem your project will help solve. Why is it important to your organization or project to solve this problem?_
+The primary objective of Season of Docs is to create high-quality technical documentation for our open-source projects, including contributor guides, onboarding guides, community involvement, website documentation, tutorials, technical blogs, and more. Technical writers can review and edit existing documentation to ensure accuracy, currency, and ease of understanding.
 
+As a technical writer, you will be writing blogs on Privacy Tech and Privacy-Enhancing Technologies such as Federated Learning, Differential Privacy, Zero-Know Proofs, Fully Homomorphic Encryption, and various open-source privacy-preserving libraries like PySyft, OpenDP, Flower. The topics covered can range from Privacy Preserving Machine Learning to State of the art Privacy Enhancing Technologies.
 
-#### Your project’s scope
+Additionally, technical writers can help our open-source organizations develop a content strategy that identifies what documentation is necessary, who the target audience is, and how it should be delivered. They can also conduct user research to understand the target audience's needs and challenges and create documentation that addresses those needs. Finally, technical writers can assist in translating documentation into different languages to make it available to a broader audience.
 
-_Tell us about what documentation your organization will create, update, or improve. If some work is deliberately not being done, include that information as well. Include a time estimate, and whether you have already identified organization volunteers and a technical writer to work with your project._
+####  Project Scope/Idea 
+
+The scope of this project is to improve the documentation, onboarding process, and technical content of the open-source Documentation initiative, licensed under Apache 2.0. The project aims to attract and enable privacy researchers, data scientists, developers, policymakers, industry leaders, and organizations to use and contribute to the initiative for advancing the field of privacy tech and privacy-enhancing technologies. The project scope includes the following
+
+- Documentation Development: The project aims to create high-quality technical documentation for the initiative's open-source projects, including contributor guides, onboarding guides, community involvement, website documentation, tutorials, and technical blogs. Technical writers will review and edit the existing documentation to ensure accuracy, currency, and ease of understanding.
+- Technical Blogs: The project scope includes writing technical blogs on Privacy Tech and Privacy-Enhancing Technologies such as Federated Learning, Differential Privacy, Zero-Know Proofs, Fully Homomorphic Encryption, and various open-source privacy-preserving libraries like PySyft, OpenDP, Flower. Technical writers will cover a wide range of topics, from Privacy Preserving Machine Learning to State of the art Privacy Enhancing Technologies.
+- Content Strategy: Technical writers will help the initiative's open-source organizations develop a content strategy that identifies what documentation is necessary, who the target audience is, and how it should be delivered.
+- User Research: Technical writers will conduct user research to understand the target audience's needs and challenges and create documentation that addresses those needs.
+- Localization: Technical writers will assist in translating the initiative's documentation into different languages to make it available to a broader audience.
+- State-of-the-art Reports: The project aims to publish state-of-the-art reports on privacy tech and privacy-enhancing technologies (PETs), as well as open research/advocacy programs.
+- Grant Funding: The project seeks to secure grant funding to expand the initiative and make it more democratic.
 
 
 #### Measuring your project’s success
 
-_How will you know that your new documentation has helped solve your problem? What metrics will you use, and how will you track them?_
+- Documentation Quality: The quality of the documentation created or updated will be evaluated based on its accuracy, completeness, and usefulness to the target audience.
+- Technical Blog Engagement: The success of the technical blogs will be measured by tracking engagement metrics such as views, shares, and comments.
+- Content Strategy Effectiveness: The effectiveness of the content strategy will be evaluated based on the feedback from the initiative's open-source organizations and the target audience.
+- User Research Feedback: The feedback received from the target audience through user research will be used to evaluate the success of the project in addressing the needs and pain points of the target audience.
+- Localization Metrics: The success of the localization efforts will be measured by tracking engagement metrics such as views, shares, and comments in different languages.
+- State-of-the-art Reports and Research Feedback: The effectiveness of the state-of-the-art reports and research programs will be evaluated based on the feedback received from the target audience and the open-source community.
+- Grant Funding: The success of the project in securing grant funding will be measured by the amount of funding secured and the feedback received from the grantors.
 
 
-### Project budget
-
-#### General guidelines
-
-*   You can include your budget in your proposal, or as a separate link. If your budget is fewer than ten items, we recommend including it in your proposal.
-*   All budgets should be in US dollars. We expect grants to range from US$5000 to US$15000; if your project is outside of that range, please provide additional information to justify your budget.
-*   We expect the bulk of your budget (60-70% minimum) to be allocated to the technical writer working on your project. We recommend budgeting on a per-project basis wherever possible.
-*   We expect open source projects to use open source tools whenever possible; if your project absolutely requires funds for proprietary software licenses or support, please include a justification for the amount.
-*   Other possible expenses include:
-    *   Design work to create branding, logos, templates, or other design assets for your documentation site
-    *   Minimal amounts (&lt;US$200) for project swag (t-shirts or stickers for your participants). If you use the Season of Docs logo, it must be accompanied by your project or organization logo or name. Your swag may **not** use the name Google.
-    *   Minimal stipends for volunteers who take on considerable mentorship or guidance roles in the project (we recommend no more than $500 per volunteer, please)
-    *   Downstream donations to other open source projects should be no more than 10% of your budget total.
-*   Include other budget items as needed, along with justification for the amount sought. Expense justifications should highlight how the expenditure will contribute to the success of the project as a whole.
-
-
-#### Budget
+## Budget
 
 Budget item | Amount | Running Total | Notes/justifications
 ------------|--------|---------------|---------------------
