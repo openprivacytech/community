@@ -13,10 +13,10 @@ At OpenPrivacyTech, we firmly believe in the critical importance of protecting i
 We are excited to participate in the Season of Docs 2023 program and hire technical writers to create and update our documentation and technical content, such as contributor and onboarding guides, tutorials, technical resources, blog posts, and over all organizations open source project documentations . We believe in open source, adopting open standards, and building an open community to raise awareness of emerging privacy-enhancing technologies. By participating in the Season of Docs, we hope to support our contributors and technical writers and help grow our nonprofit initiative.
 
 
-### About Project
----
+## About Project
 
-####  Project Problem
+
+###  Project Problem
 
 
 Our Documentation project is an Apache 2.0 licensed initiative that aims to improve our documentation, onboarding process, and technical content such as technical blogs and tutorials. Our goal is to enable privacy researchers, data scientists, developers, policymakers, industry leaders, and organizations to use and contribute to our project and advance the field of privacy tech and privacy-enhancing technologies. To achieve this objective, we plan to join the Season of Docs program and publish state-of-the-art reports on privacy tech and privacy-enhancing technologies (PETs), as well as open research/advocacy programs. We are also looking for grants to expand our initiative and make it more democratic.
@@ -27,7 +27,7 @@ As a technical writer, you will be writing blogs on Privacy Tech and Privacy-Enh
 
 Additionally, technical writers can help our open-source organizations develop a content strategy that identifies what documentation is necessary, who the target audience is, and how it should be delivered. They can also conduct user research to understand the target audience's needs and challenges and create documentation that addresses those needs. Finally, technical writers can assist in translating documentation into different languages to make it available to a broader audience.
 
-####  Project Scope/Idea 
+###  Project Scope/Idea 
 
 The scope of this project is to improve the documentation, onboarding process, and technical content of the open-source Documentation initiative, licensed under Apache 2.0. The project aims to attract and enable privacy researchers, data scientists, developers, policymakers, industry leaders, and organizations to use and contribute to the initiative for advancing the field of privacy tech and privacy-enhancing technologies. The project scope includes the following
 
@@ -40,7 +40,7 @@ The scope of this project is to improve the documentation, onboarding process, a
 - Grant Funding: The project seeks to secure grant funding to expand the initiative and make it more democratic.
 
 
-#### Measuring your project’s success
+### Measuring your project’s success
 
 - Documentation Quality: The quality of the documentation created or updated will be evaluated based on its accuracy, completeness, and usefulness to the target audience.
 - Technical Blog Engagement: The success of the technical blogs will be measured by tracking engagement metrics such as views, shares, and comments.
@@ -50,19 +50,31 @@ The scope of this project is to improve the documentation, onboarding process, a
 - State-of-the-art Reports and Research Feedback: The effectiveness of the state-of-the-art reports and research programs will be evaluated based on the feedback received from the target audience and the open-source community.
 - Grant Funding: The success of the project in securing grant funding will be measured by the amount of funding secured and the feedback received from the grantors.
 
+## Timeline
+
+The project itself will take approximately six months to complete. Once the tech writer is hired, we'll spend a month on tech writer orientation, then move onto the audit and friction log, and spend last few months focusing on creating the documentation.
+
+Dates | Action Items  |
+------------|--------|
+May | Orientation |
+June - August | Audit existing documentation and create friction log |
+September - October | Create documentation |
+November | Project completion |
+
 
 ## Budget
 
 Budget item | Amount | Running Total | Notes/justifications
 ------------|--------|---------------|---------------------
-Technical writer audit, update, test, and publish new documentation, guide and content for OpenPrivacyTech | 6000.00 | 12000.00 | 1 - 2 Technical Writers (for 3 - 6 month durations)
-Volunteer stipends  | 1000 | 13000.00 | 5 - 10 volunteers
-Mentor stipends  | 1000 | 14000.00 | Stipend for 1 - 2 Core Mentors
-Project t-shirts (15 t-shirts) | 750.00 | 14750.00 
-TOTAL |  | 14750.00 |
+Technical Writers | 10000.00 | 10000.00 | 2 Technical Writers (for 3 - 6 months based on deliverables.)
+Technical Writers (Volunteers) | 100 | 10500.00 | 5 Technical Writers from the community (To encourage contributions if not hired for season of docs)
+Volunteer stipends  | 500 | 13500.00 |  2 Mentors and Project Management/Administration.
+Swags | 500 | 14000.00 | This includes T-shirts and stickers (if available)
+TOTAL |  | 14000.00 |
 
 
-#### Additional information
+
+### Additional information
 
 **Previous experience with technical writers or documentation:**
 
@@ -75,4 +87,4 @@ The core team members of this initiative bring extensive experience and expertis
   
   ## Contact us
   
-If you are a Technical Writer and interested to contribute to OpenPrivacyTech in the Google Season of Docs 2023, Please send your proposal by following the [template of writing the statement of interest](https://developers.google.com/season-of-docs/docs/tech-writer-statement) from Google) to our mail at: [info@openprivacytech.org](mailto:info@openprivacytech.org) 
+If you are a Technical Writer and interested to contribute to OpenPrivacyTech in the Google Season of Docs 2023, Please send your proposal by following the [template of writing the statement of interest](https://developers.google.com/season-of-docs/docs/tech-writer-statement) to [info@openprivacytech.org](mailto:info@openprivacytech.org) 
