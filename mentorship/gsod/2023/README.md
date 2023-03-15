@@ -67,9 +67,9 @@ November | Project completion |
 Budget item | Amount | Running Total | Notes/justifications
 ------------|--------|---------------|---------------------
 Technical Writers | 10000.00 | 10000.00 | 2 Technical Writers (for 3 - 6 months based on deliverables.)
-Technical Writers (Volunteers) | 100 | 10500.00 | 5 Technical Writers from the community (To encourage contributions if not hired for season of docs)
-Volunteer stipends  | 500 | 13500.00 |  Mentors and Project Management/Administration.
-Swags | 500 | 14000.00 | This includes T-shirts and stickers (if available)
+Technical Writers (Volunteers) | 100.00 | 10500.00 | 5 Technical Writers from the community (To encourage contributions if not hired for season of docs)
+Volunteer stipends  | 500.00 | 13500.00 |  Mentors and Project Management/Administration.
+Swags | 500.00 | 14000.00 | This includes T-shirts and stickers (if available)
 TOTAL |  | 14000.00 |
 
 
