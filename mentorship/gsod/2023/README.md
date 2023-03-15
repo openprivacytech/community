@@ -83,7 +83,7 @@ The core team members of this initiative bring extensive experience and expertis
 
 **Previous participation in Season of Docs, Google Summer of Code or others:**
 
-[Sourav](https://github.com/souravcipher), the founder and lead of the OpenPrivacyTech Initiative, has vast experience in open source and privacy tech. He successfully led and managed the Google Season of Docs 2022 and Google Summer of Code 2021 programs as an organization administrator. He has also mentored at the Google Code-in for TensorFlow organization in 2019 and volunteered as a reviewer at Rails Girls Summer of Code in 2020. Sourav is an active open source contributor and maintainer, as well as an open source advocate. Additionally, he serves as an Organizing Team Member (Community) at GirlScript Summer of Code in 2020.
+[Sourav](https://github.com/souravcipher), the founder and lead of the OpenPrivacyTech Initiative, has vast experience in open source and privacy tech. He successfully led and managed the Google Season of Docs 2022 and Google Summer of Code 2021 programs as an organization administrator. He has also mentored at the Google Code-in for TensorFlow organization in 2019 and volunteered as a reviewer at Rails Girls Summer of Code in 2020. Sourav is an active open source contributor and maintainer, as well as an open source advocate. Additionally, he served as an Organizing Team Member (Community) at GirlScript Summer of Code in 2020.
   
   ## Contact us
   
