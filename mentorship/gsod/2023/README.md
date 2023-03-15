@@ -2,6 +2,7 @@
 > Welcome to the OpenPrivacyTech Google Season of Docs 2023
 
 ## Project Idea: Create and Update OpenPrivacyTech Documentations and Technical Contents
+![season-of-docs](https://user-images.githubusercontent.com/72210541/225298975-5047d5e7-8502-401c-9f2e-3d3ca9f85ee9.png)
 
 ## About OpenPrivacyTech
 
@@ -12,12 +13,7 @@ At OpenPrivacyTech, we firmly believe in the critical importance of protecting i
 We are excited to participate in the Season of Docs 2023 program and hire technical writers to create and update our documentation and technical content, such as contributor and onboarding guides, tutorials, technical resources, blog posts, and over all organizations open source project documentations . We believe in open source, adopting open standards, and building an open community to raise awareness of emerging privacy-enhancing technologies. By participating in the Season of Docs, we hope to support our contributors and technical writers and help grow our nonprofit initiative.
 
 
-
-
-_In this section, tell us about your organization or project in a few short paragraphs. What problem does your project solve? Who are your users and contributors? How long has your organization or project been in existence? Give some context to help us understand why funding your proposal would create a positive impact in open source and the world._
-
-
-### About your project
+### About Project
 
 
 #### Your project’s problem
@@ -81,3 +77,7 @@ _Include here any additional information that is relevant to your proposal._
   [Google Summer of Code](https://g.co/gsoc) or a similar program, mention
   this in your application. Describe your achievements in that program. Explain
   how this experience may influence the way you work in Season of Docs.
+  
+  ## Contact us
+  
+If you are a Technical Writer and you are interested to contribute to OpenPrivacyTech for Google Season of Docs 2023, Please send your proposal ( following the [template of writing the statement of interest](https://developers.google.com/season-of-docs/docs/tech-writer-statement) from Google) to our mail at: [info@openprivacytech.org](mailto:info@openprivacytech.org) 
