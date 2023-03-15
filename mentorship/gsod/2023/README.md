@@ -64,24 +64,15 @@ TOTAL |  | 14750.00 |
 
 #### Additional information
 
-_Include here any additional information that is relevant to your proposal._
-
 * **Previous experience with technical writers or documentation:**
-  If you or any of your mentors have worked with technical writers before, or
-  have developed documentation, mention this in your application. Describe
-  the documentation that you produced and the ways in which you worked with the
-  technical writer. For example, describe any review processes that you used, or
-  how the technical writer's skills were useful to your project.
-  Explain how this previous experience may help you to work
-  with a technical writer in Season of Docs.
+
+The core team members of this initiative bring extensive experience and expertise in privacy tech, mentorship and open-source management. The founder and lead of the OpenPrivacyTech initiative [Sourav Das](https://github.com/souravcipher) have previously led Google Season of Docs and Google Summer of Code programs for different organizations and mentored and volunteered at Google Code-in for TensorFlow organization and other summer of code programs like Rails Girls Summer of Code. Previously our Core Team members have parcipated and hired Technical writers in Google Seasons of Docs programs as organization administrator and mentor and completed the program successfully. This year we are excited to apply for Season of Docs program via OpenPrivacyTech and help support the Technical Writers to their contribution journey.
+
 
 * **Previous participation in Season of Docs, Google Summer of Code or
   others:**
-  If you or any of your mentors have taken part in
-  [Google Summer of Code](https://g.co/gsoc) or a similar program, mention
-  this in your application. Describe your achievements in that program. Explain
-  how this experience may influence the way you work in Season of Docs.
+[Sourav](https://github.com/souravcipher), the founder and lead of the OpenPrivacyTech Initiative, has vast experience in open source and privacy tech. He successfully led and managed the Google Season of Docs 2022 and Google Summer of Code 2021 programs as an organization administrator. He has also mentored at the Google Code-in for TensorFlow organization in 2019 and volunteered as a reviewer at Rails Girls Summer of Code in 2020. Sourav is an active open source contributor and maintainer, as well as an open source advocate. Additionally, he serves as an Organizing Team Member (Community) at GirlScript Summer of Code in 2020.
   
   ## Contact us
   
-If you are a Technical Writer and you are interested to contribute to OpenPrivacyTech for Google Season of Docs 2023, Please send your proposal ( following the [template of writing the statement of interest](https://developers.google.com/season-of-docs/docs/tech-writer-statement) from Google) to our mail at: [info@openprivacytech.org](mailto:info@openprivacytech.org) 
+If you are a Technical Writer and interested to contribute to OpenPrivacyTech in the Google Season of Docs 2023, Please send your proposal by following the [template of writing the statement of interest](https://developers.google.com/season-of-docs/docs/tech-writer-statement) from Google) to our mail at: [info@openprivacytech.org](mailto:info@openprivacytech.org) 
