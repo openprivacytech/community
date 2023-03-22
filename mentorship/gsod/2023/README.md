@@ -87,4 +87,4 @@ The core team members of this initiative bring extensive experience and expertis
   
   ## Contact us
   
-If you are a Technical Writer and interested to contribute to OpenPrivacyTech in the Google Season of Docs 2023, you can start working on your proposal and send your proposal by following the [template of writing the statement of interest](https://developers.google.com/season-of-docs/docs/tech-writer-statement) to [info@openprivacytech.org](mailto:info@openprivacytech.org), Kindly note that we will be contacting all candidates who have applied via email once the participating organizations for this year's Season of Docs announced.
+If you are a Technical Writer and interested to contribute to OpenPrivacyTech in the Google Season of Docs 2023, you can start working on your proposal and send your proposal by following the [template of writing the statement of interest](https://developers.google.com/season-of-docs/docs/tech-writer-statement) to [info@openprivacytech.org](mailto:info@openprivacytech.org), Kindly note that we will be contacting all candidates who have applied via email once the participating organizations for this year's Season of Docs announce.
