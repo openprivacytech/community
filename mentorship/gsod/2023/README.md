@@ -1,4 +1,3 @@
-
 > Welcome to the OpenPrivacyTech Google Season of Docs 2023
 
 ## Project Idea: Create and Update OpenPrivacyTech Documentations and Technical Contents
