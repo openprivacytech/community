@@ -83,11 +83,10 @@ TOTAL |  | 14000.00 |
 The core team members of this initiative bring extensive experience and expertise in working with technical writers and documentation. Last year, the core team members participated through another organization, built an amazing community of technical writers, supported them to get started in technical writing and documentation, and hired technical writers to work on the organization's projects. They completed the season of the Docs program successfully. Another Core Team member has vast experience in research, strategy, and technical writing. We will be excited to welcome new technical writers to kickstart their open-source documentation contributing journey and participate in the Season of Docs 2023.
 
 
-
 **Previous participation in Season of Docs, Google Summer of Code or others:**
 
 [Sourav](https://github.com/souravcipher), the founder, and leader of the OpenPrivacyTech Initiative, has vast experience in open-source and Privacy Tech. He successfully led and managed the Google Season of Docs 2022 and Google Summer of Code 2021 programs as an organization administrator. He has also mentored at the Google Code-in for the TensorFlow organization in 2019 and volunteered as a reviewer at Rails Girls Summer of Code in 2020. Sourav is an active open-source contributor and maintainer, as well as an open-source advocate. Additionally, he served as an organizing team member (community) at GirlScript Summer of Code in 2020.
   
   ## Contact us
   
-If you are a Technical Writer and interested to contribute to OpenPrivacyTech in the Google Season of Docs 2023, Please send your proposal by following the [template of writing the statement of interest](https://developers.google.com/season-of-docs/docs/tech-writer-statement) to [info@openprivacytech.org](mailto:info@openprivacytech.org) 
+If you are a Technical Writer and interested to contribute to OpenPrivacyTech in the Google Season of Docs 2023, you can start working on your proposal and send your draft proposal by following the [template of writing the statement of interest](https://developers.google.com/season-of-docs/docs/tech-writer-statement) to [info@openprivacytech.org](mailto:info@openprivacytech.org), Kindly note that we will be contacting all candidates who had shared their interest to work with OpenPrivacyTech via email once the participating organizations announced for this year's Season of Docs.
