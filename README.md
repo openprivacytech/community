@@ -1,3 +1,9 @@
+![Twitter Follow](https://img.shields.io/twitter/follow/openprivacytech?label=Follow)
+[![Slack](http://img.shields.io/badge/Slack-click-index.svg?style=flat-square)](https://slack.openprivacytech.org/)
+[![Linkedin](https://img.shields.io/badge/-openprivacytech-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/company/openprivacytech)](https://www.linkedin.com/company/openprivacytech)
+![GitHub followers](https://img.shields.io/github/followers/openprivacytech?label=Follow&style=social)
+![](https://visitor-badge.glitch.me/badge?page_id=openprivacytech)
+
 # Welcome to OpenPrivacyTech Community 👋
 
 OpenPrivacyTech is a growing community of like-minded individuals who are passionate about data privacy and committed to advancing privacy technology. Our organization is comprised of Privacy Researchers, Developers, Engineers, Data Scientists, and Evangelists, who all share a common goal of creating a more privacy-preserving world. 
@@ -48,14 +54,6 @@ Before making a contribution, please read our [Code of Conduct](https://www.open
 ## Connect with Us 🤝
 Our community is open and inclusive, and we welcome anyone who shares our passion for privacy technology. Whether you're an experienced developer or just starting out, there are plenty of opportunities to get involved and contribute to our mission.
 
-To join our community, simply visit our [website](https://www.openprivacytech.org/). 
-
-![Twitter Follow](https://img.shields.io/twitter/follow/openprivacytech?label=Follow)
-[![Slack](http://img.shields.io/badge/Slack-click-index.svg?style=flat-square)](https://slack.openprivacytech.org/)
-[![Linkedin](https://img.shields.io/badge/-openprivacytech-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/company/openprivacytech)](https://www.linkedin.com/company/openprivacytech)
-![GitHub followers](https://img.shields.io/github/followers/openprivacytech?label=Follow&style=social)
-![](https://visitor-badge.glitch.me/badge?page_id=openprivacytech)
-
-
+To join our community, simply visit https://slack.openprivacytech.org
 
 We look forward to welcoming you to the OpenPrivacyTech family!
