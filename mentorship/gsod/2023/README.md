@@ -1,3 +1,5 @@
+`We are not participating in Season of Docs 2023, please reach out if you wanna volunteer, see you in GSoD 2024.`
+
 > Welcome to the OpenPrivacyTech Google Season of Docs 2023
 
 ## Project Idea: Create and Update OpenPrivacyTech Documentations and Technical Contents
