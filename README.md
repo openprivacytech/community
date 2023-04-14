@@ -1,8 +1,10 @@
-![Twitter Follow](https://img.shields.io/twitter/follow/openprivacytech?label=Follow)
-[![Slack](http://img.shields.io/badge/Slack-click-index.svg?style=flat-square)](https://slack.openprivacytech.org/)
+[![twitter](https://img.shields.io/twitter/follow/openprivacytech?style=social)](https://twitter.com/intent/follow?screen_name=openprivacytech)
+
+
 [![Linkedin](https://img.shields.io/badge/-openprivacytech-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/company/openprivacytech)](https://www.linkedin.com/company/openprivacytech)
 ![GitHub followers](https://img.shields.io/github/followers/openprivacytech?label=Follow&style=social)
 ![](https://visitor-badge.glitch.me/badge?page_id=openprivacytech)
+![Open Collective sponsors](https://img.shields.io/opencollective/sponsors/openprivacytech)
 
 # Welcome to OpenPrivacyTech Community 👋
 
