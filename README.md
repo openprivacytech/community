@@ -1,10 +1,9 @@
 [![twitter](https://img.shields.io/twitter/follow/openprivacytech?style=social)](https://twitter.com/intent/follow?screen_name=openprivacytech)
-
-
 [![Linkedin](https://img.shields.io/badge/-openprivacytech-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/company/openprivacytech)](https://www.linkedin.com/company/openprivacytech)
 ![GitHub followers](https://img.shields.io/github/followers/openprivacytech?label=Follow&style=social)
+![GitHub Repo stars](https://img.shields.io/github/stars/openprivacytech/community?style=social)
 ![](https://visitor-badge.glitch.me/badge?page_id=openprivacytech)
-![Open Collective sponsors](https://img.shields.io/opencollective/sponsors/openprivacytech)
+
 
 # Welcome to OpenPrivacyTech Community 👋
 
