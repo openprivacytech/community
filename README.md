@@ -21,7 +21,7 @@ OpenPrivacyTech is a growing community of like-minded individuals who are passio
 
 ## About OpenPrivacyTech :point_down:
 
-OpenPrivacyTech is a 501(c)(3) nonprofit open-source organization committed to democratizing privacy technology and privacy-enhancing technologies (PETs). Our mission is to make PETs accessible to everyone through education, research, and advocacy. We strive to advance the field of privacy tech by conducting research, identifying emerging trends and technologies, developing standards, and building infrastructure for the adoption of PETs.
+OpenPrivacyTech is a 501(c)(3) nonprofit organization committed to democratizing privacy technology and privacy-enhancing technologies (PETs). Our mission is to make PETs accessible to everyone through education, research, and advocacy. We strive to advance the field of privacy tech by conducting research, identifying emerging trends and technologies, developing standards, and building infrastructure for the adoption of PETs.
 
 At OpenPrivacyTech, we understand the critical importance of protecting individual privacy, and we are actively working to promote the adoption of privacy-enhancing technologies. We collaborate with researchers, data scientists, developers, policymakers, industry leaders, and organizations to advocate for strong data privacy and protection laws while promoting the use of PETs.
 
