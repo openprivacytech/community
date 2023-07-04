@@ -28,9 +28,14 @@ At OpenPrivacyTech, we understand the critical importance of protecting individu
 
 ## Our Mission :rocket:
 
-At OpenPrivacyTech, we firmly believe that privacy is a fundamental human right, and we are committed to making the world a better and safer place for everyone. We are on a mission to solve the larger data privacy problems facing society through research, development, and advocacy in Privacy Tech. Our goal is to create a more privacy-preserving world that empowers individuals to control their own data.
+At OpenPrivacyTech, we believe that privacy is a fundamental human right. We are committed to making the world a better and safer place by making privacy technology accessible to everyone.  
+We achieve our mission through a variety of activities, including:
+* Research: We conduct research on privacy technology and its applications.
+* Development: We develop privacy-enhancing technologies.
+* Advocacy: We advocate for strong data privacy laws and policies.
+* Education: We educate the public about privacy technology and its importance.
 
-
+We believe that everyone should have the right to protect their personal privacy. We are committed to making privacy technology accessible to everyone, so that everyone can benefit from its protection.
 ## Working Groups :page_facing_up:
 
 As a member of our community, you will have the opportunity to work with Privacy Engineers, Researchers, Developers, and Industry Leaders in various working groups. Our working groups focus on specific projects and initiatives, and they provide a space for members to collaborate, share ideas, and work together to solve problems. Joining a working group will give you the chance to work directly on OpenPrivacyTech projects, as well as access to cutting-edge technologies and resources.
