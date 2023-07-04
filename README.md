@@ -7,16 +7,16 @@
 
 # Welcome to OpenPrivacyTech Community 👋
 
-OpenPrivacyTech is a growing community of like-minded individuals who are passionate about data privacy and committed to advancing privacy technology. Our organization is comprised of Privacy Researchers, Developers, Engineers, Data Scientists, and Evangelists, who all share a common goal of creating a more privacy-preserving world. 
+OpenPrivacyTech is a growing community of like-minded individuals who are passionate about data privacy and committed to advancing privacy technology. Our organization consists of  Privacy Researchers, Developers, Engineers, Data Scientists, and Evangelists, who all share a common goal of creating a more privacy-preserving world. 
 
 ## Table of Contents
 
 - [About](#about-openprivacytech-point_down)
-- [Our Mission](#Our-Mission)
-- [Working Groups](#Working-Groups)
-- [Contributing to OpenPrivacyTech](#Contributing-to-OpenPrivacyTech)
-- [Contribute to Our Documentation](#Contribute-to-Our-Documentation)
-- [Connect with us](#Connect-with-us)
+- [Our Mission](#our-mission-rocket)
+- [Working Groups](#working-groups-page_facing_up)
+- [Contributing to OpenPrivacyTech](#contributing-to-openprivacytech-pushpin)
+- [Contribute to Our Documentation](#contribute-to-our-documentation)
+- [Connect with us](#connect-with-us)
 
 
 ## About OpenPrivacyTech :point_down:
