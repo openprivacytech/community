@@ -11,7 +11,7 @@ OpenPrivacyTech is a growing community of like-minded individuals who are passio
 
 ## Table of Contents
 
-- [About](#About-OpenPrivacyTech)
+- [About](#about-openprivacytech-point_down)
 - [Our Mission](#Our-Mission)
 - [Working Groups](#Working-Groups)
 - [Contributing to OpenPrivacyTech](#Contributing-to-OpenPrivacyTech)
