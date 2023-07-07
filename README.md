@@ -37,7 +37,7 @@ We achieve our mission through a variety of activities, including:
 
 ## Working Groups :page_facing_up:
 
-As a member of our community, you will have the opportunity to work with Privacy Engineers, Researchers, Developers, and Industry Leaders in various working groups. Our working groups focus on specific projects and initiatives, and they provide a space for members to collaborate, share ideas, and work together to solve problems. Joining a working group will give you the chance to work directly on OpenPrivacyTech projects, as well as access to cutting-edge technologies and resources.
+As a member of our community, you will have the opportunity to work with Privacy Engineers, Researchers, Developers, and Industry Leaders in various working groups. Our working groups focus on specific projects and initiatives, and provide a space for members to collaborate, share ideas, and work together to solve problems. Joining a working group will give you the chance to work directly on OpenPrivacyTech projects, as well as access to cutting-edge technologies and resources.
 
 
 # Contributing to OpenPrivacyTech :pushpin:
