@@ -57,7 +57,7 @@ Before making a contribution, please read our [Code of Conduct](https://www.open
 
 
 ## Connect with Us 🤝
-Our community is open and inclusive, we welcome anyone who shares our passion for privacy technology. Whether you're an experienced developer or just starting out, there are plenty of opportunities to get involved and contribute to our mission.
+Our community is open and inclusive, we welcome anyone who shares our passion for privacy technology. Whether you're an experienced privacy engineer or just starting out, there are plenty of opportunities to get involved and contribute to our mission.
 
 To join our community, simply visit https://slack.openprivacytech.org
 
